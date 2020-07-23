@@ -2,7 +2,8 @@
 using namespace std;
 int main ()
 {
- int sayi1, sayi2, sonuc, islem;
+ int sayi1, sayi2, sonuc;
+ char islem;
  
  cout << "Ilk sayiyi gir: ";
  cin >> sayi1;
